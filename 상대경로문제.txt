@@ -1,0 +1,31 @@
+첫페이지(홈)기준<a herf="./index.html">첫페이지로 이동</a>
+1. common.css 이동:
+<a herf="./common/css/common.css" >커먼</a>
+2. coomon.js 이동:
+<a herf="./common/scripts/common.js"> 커먼파일 바로가귀 ~</a>
+3.logo.png
+<a herf="./pf01/images/logo.png"> logo파일바로가기</a>
+4.index.css 이동:
+<a herf="./pf01/css/index.css"> css 파일 바로가기</a>
+
+5.pf01안의 index.html이동.
+<a herf="./pf01/index.html"> pf01 페이지 바로가기 </a>
+
+<ol>
+<li>a helf="사이트">사이트바로가기</a>
+
+----------------------------------------
+pf 01 안의 index.html 기준
+1.pf 01안의 intro.html 이동:
+intro.html
+2. 첫페이지(홈)이동:
+../index.html
+3.index.css 이동:
+./css/index.css
+
+4.reset.css 이동:
+../common/css/reset.css
+5.common.js
+../common/scripts/common.js
+6.slider.js
+./scripts/slider.js
